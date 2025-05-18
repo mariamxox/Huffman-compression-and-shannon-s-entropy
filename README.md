@@ -1,2 +1,3 @@
 # Huffman-compression-and-shannon-s-entropy
-This Python code compresses text files, images and mp3 files into binary format . It calculates the efficiency of the compression and the time taken and it also decompresses the compressed file and compares it to the original one to ensure that the data stays the same. 
+This Python code compresses text files, images and mp3 files into binary format in a text file and saves it to Desktop. It calculates the efficiency of the compression and the time taken and it also decompresses the compressed file and compares it to the original one to ensure that the data stays the same, and it also calculates shannon's entropy upon compression.
+NOTE: There are 4 code files. One for just text files (FileCompression), one for images (ImageCompression), one for MP3 (AudioCompression) and these are just Huffman compression. The fourth mixes all of them and includes Shannon's entropy (MixAndEntropy)
